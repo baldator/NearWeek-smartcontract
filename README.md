@@ -1,0 +1,1 @@
+# Tipping smart contract
