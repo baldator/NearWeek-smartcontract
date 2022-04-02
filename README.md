@@ -1,1 +1,3 @@
-# Tipping smart contract
+# NEAR WEEK smart contr
+
+
