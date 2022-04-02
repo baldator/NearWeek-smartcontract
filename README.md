@@ -1,3 +1,3 @@
-# NEAR WEEK smart contr
+# NEAR WEEK smart contract
 
 
